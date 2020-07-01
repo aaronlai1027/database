@@ -1,0 +1,33 @@
+locationId	locationName	locationAddress	locationCity	locationState	locationZip
+1	Valhalla	6100 Main Street	Houston	TX	77005
+2	Beer Bike Track	Bike Track	Houston	TX	77005
+3	Duncan Hall	6100 Main St	Houston	TX	77005
+4	RGA	1515 Bissonnet St	Houston	TX	77005
+5	Rice Village Apartments	2410 Shakespeare St	Houston	TX	77030
+6	Fondren Library	6100 Main St	Houston	TX	77005
+7	RMC	Inner Loop	Houston	TX	77005
+8	Academic Quad	6100 Main St	Houston	TX	77005
+9	Founders Court	6100 Main St	Houston	TX	77005
+10	Turrell Skyscape	Suzanne Deal Booth Centennial Pavilion	Houston	TX	77005
+11	Gibbs Recreation and Wellness Center	6100 Main St	Houston	TX	77005
+12	Shepard School of Music	6100 Main St	Houston	TX	77005
+13	BRC	6500 Main St	Houston	TX	77005
+14	Brochstein Pavilion	Center of Campus	Houston	TX	77005
+15	Center for Career Development	Huff House	Houston	TX	77005
+16	Coffeehouse	RMC RTV5	Houston	TX	77005
+17	Rice Stadium	Westmost campus	Houston	TX	77005
+18	BRC	6500 Main St	Houston	TX	77005
+19	Jones School	1900 Rice Boulevard	Houston	TX	77005
+20	RUPD	6100 Main St MS-551	Houston	TX	77005
+21	Moody Center for the Arts	Campus Entrance 8	Houston	TX	77005
+22	Baker College	6320 Main St	Houston	TX	77005
+23	Brown College	9 Sunset Blvd	Houston	TX	77005
+24	Duncan College	1601 Rice Blvd	Houston	TX	77005
+25	Hanszen College	6350 Main St	Houston	TX	77005
+26	Jones College	23 Sunset Blvd	Houston	TX	77005
+27	Lovett College	6310 Main St	Houston	TX	77005
+28	Martel College	399 Sunset Blvd	Houston	TX	77005
+29	McMurtry College	1605 Rice Blvd	Houston	TX	77005
+30	Sid Richardson College	6360 Main St	Houston	TX	77005
+31	Weiss College	6340 Main St	Houston	TX	77005
+32	Will Rice College	6330 Main St	Houston	TX	77005

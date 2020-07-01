@@ -1,0 +1,5 @@
+menuId	menuName
+1	Full menu
+2	Study break
+3	Fast
+4	Sundae

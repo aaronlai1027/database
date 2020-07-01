@@ -1,0 +1,74 @@
+compId	compName	compCatId
+1	vanilla	7
+2	cherry dip	1
+3	choc dip	1
+4	no topping	1
+5	oreo	1
+6	PB dip	1
+7	PB topping	1
+8	pecans	1
+9	peanuts	1
+10	sprinkles	1
+11	stem cherry	1
+12	caramel	1
+13	cookie dough	1
+14	thin mint	1
+15	hot fudge	1
+16	m&m	1
+17	marshmallow	1
+18	pineapple	1
+19	PB cup	1
+20	strawberry	1
+21	whipped cream	1
+22	blue raspberry	2
+23	bubble gum	2
+24	cherry	2
+25	grape	2
+26	lemon	2
+27	lime	2
+28	pineapple	2
+29	strawberry	2
+30	tigers blood	2
+31	watermelon	2
+32	rootbeer	2
+33	banana	3
+34	brownie	4
+35	biscuit	4
+36	cookie	4
+37	short napkin	5
+38	tall napkin	5
+39	popsicle stick	10
+40	short spoon	13
+41	long spoon	13
+42	short straw	16
+43	tall straw	16
+44	12 oz cup	14
+45	12 oz lid	15
+46	20 oz cup	14
+47	20 oz lid	15
+48	32 oz cup	14
+49	32 oz lid	15
+50	6 oz dish	14
+51	10 oz dish	14
+52	12 oz dish	14
+53	#10 cone	12
+54	#30 cone	12
+55	waffle cone	12
+56	sugar	8
+57	coke	9
+58	sprite	9
+59	orange crush	9
+60	dr. pepper	9
+61	rootbeer	9
+62	water	9
+63	slush	11
+64	milk	8
+65	chocolate	7
+66	vanilla	7
+67	strawberry	7
+68	coffee	7
+69	pint	10
+70	monkey tail	10
+71	16 oz dish	14
+72	strawberry	18
+73	pineapple	18

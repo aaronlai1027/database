@@ -1,0 +1,19 @@
+compCatId	compCatName
+1	topping
+2	flavor
+3	container
+4	baked good
+5	paper product
+6	plastic product
+7	ice cream base
+8	ingredient
+9	beverage
+10	other
+11	slushie base
+12	cone
+13	spoon
+14	cup
+15	lid
+16	straw
+17	novelty
+18	fruit

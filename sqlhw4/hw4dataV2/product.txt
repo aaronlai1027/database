@@ -1,0 +1,28 @@
+productCode	productName
+b	brownie sundae
+bf	brain freeze
+bs	banana split
+c1	kid cone
+c2	regular cone
+c3	large cone
+cx	extra cone topping
+d1	Kid dish
+d2	regular dish
+d3	large dish
+dk	drink
+dx	extra dish topping
+fl	float
+ms	milkshake
+mt	monkey tail
+pt	pint
+s1	regular sundae
+s2	large sundae
+sl1	kid slush
+sl2	regular slush
+sl3	large slush
+slx	extra slush topping
+ss	strawberry shortcake
+sx	extra sundae topping
+ts	turtle sundae
+wc	waffle cone
+wx	extra waffle topping
